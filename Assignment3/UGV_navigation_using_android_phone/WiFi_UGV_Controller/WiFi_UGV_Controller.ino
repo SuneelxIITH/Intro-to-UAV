@@ -13,7 +13,7 @@ String request ;
 char* ssid  = "autera";
 char* password  = "autera123";
 
-String nom  = "ESP32";
+String nom  = "Sun_ESP32";
 //Objects
 WiFiServer server(80);
 WiFiClient client;
