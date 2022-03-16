@@ -1,8 +1,8 @@
-## Assignment 5
+# Assignment 5
 
 # UGV Bluetooth Controller using just your browser
 
-## Prerequisites
+# Prerequisites
 
 - Assembled UGV
 

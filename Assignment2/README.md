@@ -1,6 +1,6 @@
-## Assignment 2
+# Assignment 2
 
-## Tracing a triangle 10 times
+# Tracing a triangle 10 times
 
 # Try1:
 
@@ -20,7 +20,7 @@ Sensor is also real and accuracy is very less, integrating it twice is accumulat
 Using Hmc5883l Magnetometer compass to get heading direction
 With this we can just get the present heading angle/yaw relative to true earths North by declaring the usage locations Declination
 
-# Try4:
+## Try4:
 
 Using a central camera on the room to look at the bot from a birds eye view.
 I have created a 3D model to be printed and added on the top of the bot which will be clean.
