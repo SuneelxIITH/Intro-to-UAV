@@ -1,6 +1,6 @@
 # Assignment 9
 
-# 3D Printing UGV CHassis
+# 3D Printing UGV Chassis
 
 I have designed a new chassis model for casing all my components including Magnetometer, Camera, Gyroscope, Power Storage, ESP32 and also compatible for Central navigation system
 
