@@ -2,20 +2,20 @@
 
 # Tracing a triangle 10 times
 
-# Try1:
+## Try1:
 
 Assuming ideal power distribution, motors and surfaces, we get exact same outputs everytime we run same command
 Just running forward and turn 120 degrees 30 times should work ideally.
 
 But real motors, power distributuion and surfaces, there is always a deviation
 
-# Try2:
+## Try2:
 
 Using MPU 6050 Gyroscope.
 Here I tried to measure the yaw acceleration rate and integrate it twice to get the rotation angle, to rotate exactly.
 Sensor is also real and accuracy is very less, integrating it twice is accumulation error more than the simple case.
 
-# Try3:
+## Try3:
 
 Using Hmc5883l Magnetometer compass to get heading direction
 With this we can just get the present heading angle/yaw relative to true earths North by declaring the usage locations Declination
