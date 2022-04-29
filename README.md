@@ -27,3 +27,6 @@ https://www.youtube.com/watch?v=Xj0lvsQvGMs
 https://www.youtube.com/watch?v=k8BwswMfs3c
 
 ## Assignment 9 - 3D Printing UGV Chassis
+
+## Assignment 10 - BOT Tracing Square with APM
+ttps://youtu.be/QGqcDMJ0vq8
